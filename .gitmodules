@@ -1,0 +1,6 @@
+[submodule "ynsera-info"]
+	path = ynsera-info
+	url = git@github.com:vectorlab-cg/ynsera-info.git
+[submodule "ynsera-website"]
+	path = ynsera-website
+	url = git@github.com:vectorlab-cg/ynsera-website.git

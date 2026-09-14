@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "adapt": {
+      "source": "aladicf/better-web-ui",
+      "sourceType": "github",
+      "skillPath": "skills/adapt/SKILL.md",
+      "computedHash": "ba0ba06c26bb7167998d28c4bf1c2d8c9cda0acc2c238c71bf7d130bf776ce1a"
+    },
+    "add-ui": {
+      "source": "aladicf/better-web-ui",
+      "sourceType": "github",
+      "skillPath": "skills/add-ui/SKILL.md",
+      "computedHash": "55c60e7ac983b151d241f12b299080a81a70b5c0e895462a72262c66d7c52a2c"
+    },
+    "animate": {
+      "source": "aladicf/better-web-ui",
+      "sourceType": "github",
+      "skillPath": "skills/animate/SKILL.md",
+      "computedHash": "cb49007a9831659061bf93f82708c68751eaa88ceecf671d18492db267437309"
+    },
+    "arrange": {
+      "source": "aladicf/better-web-ui",
+      "sourceType": "github",
+      "skillPath": "skills/arrange/SKILL.md",
+      "computedHash": "2b664432b54b26fc0e7fc716eb8cff65bbfb74922e62c57246ce6ce8bb622928"
+    },
+    "frontend-design": {
+      "source": "aladicf/better-web-ui",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "c2cf87cdd07523f4b92d9bbc0b6f90dde57ac574f47a140ca477df4c47a639a9"
+    },
+    "imagery": {
+      "source": "aladicf/better-web-ui",
+      "sourceType": "github",
+      "skillPath": "skills/imagery/SKILL.md",
+      "computedHash": "216d972fe0e80cb33019c02a946caa05b7d5dbbb1b10bb9f75e2ff1116f9f34c"
+    },
+    "localize": {
+      "source": "aladicf/better-web-ui",
+      "sourceType": "github",
+      "skillPath": "skills/localize/SKILL.md",
+      "computedHash": "44c3e809ff5c59cbd51cbdd90811d045686a7c45355cb49fe99f21ba565a22b5"
+    },
+    "polish": {
+      "source": "aladicf/better-web-ui",
+      "sourceType": "github",
+      "skillPath": "skills/polish/SKILL.md",
+      "computedHash": "220c204cb6e665641472db5b4a9e7d9382a6d561a76bb2d95a14850cc5206efb"
+    }
+  }
+}
